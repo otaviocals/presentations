@@ -1,0 +1,93 @@
+Recap: Criptografia Quântica
+========================================================
+author: Matheus, Otávio, Paulo
+date: 03/06/16
+autosize: true
+transition: rotate
+
+
+11/15
+===
+
+Reuniões: ?
+
+- Testes de Divergência do Laser nos Módulos Antigos
+  - Laboratório
+  - Corredor
+
+12/15
+===
+
+Reuniões: ?
+
+- Testes de Divergência do Laser nos Módulos Antigos
+  - Corredor
+- Férias
+
+01/16
+===
+
+Reuniões: ?
+
+- Férias
+- Organização do Cronograma
+
+02/16
+========================================================
+
+Reuniões: 3
+
+- Criação do Caderno de Laboratorio do Projeto
+- Planejamento dos Módulos Robustos
+  - Estabelecimento de Metas
+        - Distâncias: Laboratório -> Corredor -> Reitoria -> Cristo
+        - Prazos
+  - Set-Up Experimental
+
+03/16
+========================================================
+
+Reuniões: 2
+
+- Planejamento dos Módulos Robustos
+  - Listagem de Materiais
+     - Novo Laser ( $\lambda$ =780nm)
+     - Nova Ótica
+         - Placas de Onda
+         - Espelhos
+     - Telescópio
+         - Filamento para Impressão 3D
+     - Novo Detector
+  - Pedido das Peças
+  
+
+04/16
+========================================================
+
+Reuniões: 3
+
+- Montagem dos Módulos Robustos
+  - Chegada dos Perfis e Construção da Estrutura dos Módulos
+  - Instalação do Novo Laser e Ótica
+  - Transformação do perfil do Novo Laser (Elíptico -> Gaussiano)
+  - Modelagem do Telescópio
+- Remontagem dos Módulos Antigos (Apresentação para os Calouros)
+  - Adição de Switches
+  - Recalibração dos Módulos Antigos
+
+05/16
+===
+
+Reuniões: 1.5
+
+- Montagem dos Módulos Robustos
+  - Caracterização do Laser utilizando o Novo Detector
+- Definição do Método a ser utilizado nos Testes de Longa Distância
+
+06/16
+===
+
+Reuniões: 0.5
+
+- Montagem dos Módulos Robustos
+  - Impressão das peças do Telescópio
