@@ -1,0 +1,27 @@
+Criptografia Quântica no Espaço Livre - Caracterização do Canal de Comunicação
+
+Em 2015 iniciou-se o projeto de Criptografia Quântica no Espaço Livre, onde duas partes buscam realizar uma geração segura de chave criptográfica utilizando-se de propriedades inerentes à sistemas quânticos.
+Baseando-se no protocolo BB84, foram desenvolvidas plataformas móveis para sua implementação e seus resultados foram apresentados na JIC-2015.
+Dando continuação ao projeto em 2016, buscou-se alcançar novos patamares de comunicação, saindo do espaço do laboratório e visando novas distâncias.
+Para tal, foram construídos novos módulos de transmissão e recepção. Essa apresentação atentará aos desafios enfrentados em sua construção, focando-se nos desafios ópticos enfrentados e em suas soluções, sendo estes:
+
+1- Divergência do Laser:
+
+Com o aumento do comprimento do canal de comunicação entre os módulos, a divergência do laser passa a apresentar um problema para a realização do projeto.
+Através da abordagem geométrica do laser, serão tratados os métodos utilizados, e seus resultados, para circunvir a divergência, divididos em dois pontos:
+  a- Focalização do laser do módulo de transmissão por meio de um conjunto de lentes.
+  b- Utilização de um telescópio para aumentar a área de captura do módulo de recepção.
+
+2- Caracterização do Laser
+
+Buscando uma menor absorção atmosférica, foi realizada uma troca do equipamento óptico para outro de comprimento de onda mais favorável.
+Através da abordagem ondulatória da luz, será abordada a troca e caracterização das propriedades do novo laser instalado no módulo de transmissão.
+Além disso, devido às características elípticas apresentadas pelo laser, concluiu-se a necessidade de um filtro espacial para que o laser assuma um modo gaussiano.
+Será mostrado o processo de construção do filtro, seu funcionamento e sua atuação sobre o modo espacial do laser.
+
+3- Fótons Únicos
+
+Para atingir um regime verdadeiramente quântico é necessária a atenuação do laser visando atingir um regime quântico de fótons únicos.
+Será apresentado o método utilizado para realizar a atenuação do laser e seus resultados.
+
+Este trabalho é desenvolvido em conjunto com outro aluno de iniciação científica cujo enfoque será na implementação experimental.
